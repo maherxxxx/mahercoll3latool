@@ -1,0 +1,12 @@
+node_modules
+package.json
+package-lock.json
+bun.lock
+bun.lockb
+wrangler.jsonc
+.assetsignore
+.gitignore
+.git
+.github
+tests
+core.test.js
